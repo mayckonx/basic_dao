@@ -1,7 +1,7 @@
 # basic_dao
 A basic dao built using Hardhat, Typescript and Solidity.
 
-The project contains 3 smart contracts
+The project contains the following smart contracts
 
 - Box - the smart contract ruled by the governance
 - TimeLock - the smart contract responsible for executing the proposals/votes
