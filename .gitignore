@@ -91,5 +91,8 @@ typings/
 # FuseBox cache
 .fusebox/
 
+# Typechain types
+.typechain-types
+
 # DynamoDB Local files
 .dynamodb/
