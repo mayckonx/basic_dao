@@ -91,8 +91,12 @@ typings/
 # FuseBox cache
 .fusebox/
 
-# Typechain types
-.typechain-types
+# typechain
+types
+typeschain-type
+
+# buidler
+artifacts
 
 # DynamoDB Local files
 .dynamodb/
